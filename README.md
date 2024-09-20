@@ -11,3 +11,4 @@ Execution:
 - Ensure to setup Typescript, Playwright
 - In the terminal execute the command "npx playwright test --headed"
 - Test will be executed
+- Test results can be seen in test-results folder in JSON format
